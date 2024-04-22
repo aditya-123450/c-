@@ -20,6 +20,14 @@ int main()
     //a=6
     cout<<a--<<endl;
     cout<<a<<endl;
+//reational operator
+    int g=3;
+    int b=4;
+
+    cout<<(a==b)<<endl;
+    cout<<(a!=b)<<endl;
+    cout<<(a>=b)<<endl;
+
 
     return 0;
 }
