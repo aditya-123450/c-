@@ -19,6 +19,7 @@ using namespace std;
             occurance=i;
         }
     }
+
     cout<<occurance<<endl;
 
     return 0;
